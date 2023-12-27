@@ -25,5 +25,5 @@ The project is structured to cover dataset import, model training, and evaluatio
 
 ## Implementation Steps
 The implementation involves importing libraries, loading the CIFAR-10 dataset, defining and training the ResNet model, and evaluating its performance. Hyperparameter tuning and potential future directions for the project are also discussed.
-Check out the complete implementations by checking out the .ipynb file by [clicking here](#ha)
+Check out the complete implementations by checking out the .ipynb file by [clicking here](https://github.com/Megh-Zyke/Copy-of-ResNet/blob/main/Toy_Resnet_Implementation.ipynb)
 
